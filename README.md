@@ -5,18 +5,12 @@ This repository contains implementations of various data structures and algorith
 - Doubly linked lists
 
 ### Queues
-- Queue implementation using arrays
-- Queue implementation using linked lists
+- Queue implementation
 
 ### Stacks
-- Stack implementation using arrays
-- Stack implementation using linked lists
+- Stack implementation
 
 ### Hash Maps
-- Implementation using arrays and objects
-- Collision handling techniques:
-  - Separate chaining
-  - Linear probing
 
 ### Trees
 - Binary search trees
